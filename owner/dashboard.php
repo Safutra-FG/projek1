@@ -263,7 +263,7 @@ $koneksi->close(); // Tutup koneksi database
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="stok.php">
+                <a class="nav-link" href="laporan_sparepart.php">
                     <i class="fas fa-boxes"></i>Laporan Sparepart
                 </a>
             </li>
